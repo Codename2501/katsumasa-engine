@@ -1,3 +1,4 @@
+<img width="2400" height="1200" alt="Image" src="https://github.com/user-attachments/assets/3d632dad-ff87-4b84-99be-f00ea235463e" />
 🌌 Katsumasa Engine: Refined
 High-Precision N-Body Solver with JAX (Float64 & Energy Conservation)
 "Simulating the Chaos with Precision." — Developed for the Pythagorean 3-Body Problem.
